@@ -198,10 +198,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshot
-
-> 📌 *Tambahkan screenshot aplikasi setelah selesai develop:*
-
 ```
 docs/
 ├── screenshot-dashboard.png
@@ -241,11 +237,6 @@ docs/
 
 ## 🎓 Konteks Akademik
 
-Proyek ini dikembangkan sebagai tugas mata kuliah **Aplikasi Web Sistem Informasi** di:
-
-**Politeknik Elektronika Negeri Surabaya (PENS)**  
-Departement of Informatic and Computer Engineering
-
 **Tema Tugas:** *Teknologi Aplikasi Web Basis Data Internet (JSON) — Dashboard Data Publik (Open Data)*
 
 ### Sasaran Pembelajaran
@@ -253,19 +244,6 @@ Departement of Informatic and Computer Engineering
 - Implementasi data visualization dengan chart library
 - Penerapan filter, pencarian, dan ekspor data
 - Eksplorasi tren teknologi web modern
-
----
-
-## 👥 Tim Pengembang
-
-| Nama | NRP | Role |
-|---|---|---|
-| [Nama Kamu] | [NRP] | Frontend Developer |
-| [Nama Anggota 2] | [NRP] | UI/UX Designer |
-| [Nama Anggota 3] | [NRP] | Data Engineer |
-| [Nama Anggota 4] | [NRP] | Documentation |
-
-**Dosen Pengampu:** Yesta Medya Mahardhika / Dian Septiani Santoso
 
 ---
 
@@ -313,14 +291,13 @@ Proyek ini dilisensikan di bawah **MIT License** — lihat file [LICENSE](LICENS
 - 🌍 **BMKG** — atas data cuaca dan gempa publik
 - 💼 **World Bank** — atas data indikator ekonomi global
 - 🏥 **disease.sh** — atas open API data COVID-19
-- 🎓 **Politeknik Elektronika Negeri Surabaya** — sebagai institusi pendukung
 - 💡 **Our World in Data** — sebagai inspirasi desain dashboard
 
 ---
 
 <div align="center">
 
-**Dibuat dengan ❤️ di Surabaya, Indonesia**
+**Dibuat dengan ❤️**
 
 ⭐ Star repo ini jika kamu menemukan project ini bermanfaat!
 
