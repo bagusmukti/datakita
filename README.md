@@ -198,29 +198,6 @@ npm run dev
 
 ---
 
-```
-docs/
-├── screenshot-dashboard.png
-├── screenshot-bmkg.png
-├── screenshot-worldbank.png
-├── screenshot-covid.png
-└── screenshot-export-modal.png
-```
-
-<div align="center">
-
-| Dashboard Utama | Dataset BMKG |
-|---|---|
-| _coming soon_ | _coming soon_ |
-
-| Indikator Ekonomi | Data COVID-19 |
-|---|---|
-| _coming soon_ | _coming soon_ |
-
-</div>
-
----
-
 ## 🎨 Design System
 
 | Token | Value | Penggunaan |
