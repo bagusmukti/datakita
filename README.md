@@ -10,9 +10,10 @@
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://datakita-one.vercel.app)
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://datakita-one.vercel.app)
 
-[Demo](#-demo) · [Fitur](#-fitur-utama) · [Instalasi](#-instalasi--menjalankan) · [API](#-sumber-data-api) · [Tim](#-tim-pengembang)
+[🌐 Live Demo](https://datakita-one.vercel.app) · [Fitur](#-fitur-utama) · [Instalasi](#-instalasi--menjalankan) · [API](#-sumber-data-api)
 
 </div>
 
@@ -21,6 +22,12 @@
 ## 📖 Tentang Proyek
 
 **DataKita** adalah aplikasi web *open-data dashboard* yang mengagregasi data publik dari tiga sumber API berbeda — **BMKG**, **World Bank**, dan **disease.sh** — kemudian menyajikannya dalam bentuk visualisasi yang interaktif dan mudah dipahami.
+
+## 🌐 Demo
+
+**Live:** [https://datakita-one.vercel.app](https://datakita-one.vercel.app)
+
+> Aplikasi dapat diakses langsung tanpa instalasi apapun.
 
 ### 🎯 Latar Belakang Masalah
 
@@ -174,8 +181,8 @@ datakita/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/datakita-dashboard.git
-cd datakita-dashboard
+git clone https://github.com/bagusmukti/datakita.git
+cd datakita
 
 # 2. Install dependencies
 npm install
